@@ -1,2 +1,2 @@
 # TableTennisGame
-a server game with usin JAVA
+a server game with using JAVA
